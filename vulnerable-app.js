@@ -1,7 +1,7 @@
 // ============================================
 // INTENTIONALLY VULNERABLE CODE FOR SAST TESTING
 // This file contains examples of all vulnerability
-// types our scanner detects.
+// types our scanner detects
 // ============================================
 
 const express = require('express');
